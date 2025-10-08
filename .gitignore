@@ -1,0 +1,39 @@
+build
+.DS_STORE
+venv
+.project
+.commit
+*.iml
+*.ipr
+*.iws
+*.swp
+*.pyc
+*.prefs
+
+# log
+*.log
+logs/
+log/
+
+# tmp
+*.tmp
+*.exe
+*.out
+*.class
+*.o
+*.so
+*.jar
+
+# data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.tar.gz
+*.db-journal
+
+# conf
+*_dev.yaml
+*_dev.env
+
+# this app
